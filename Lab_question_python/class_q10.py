@@ -1,0 +1,1 @@
+#check  nember is prime or not 
